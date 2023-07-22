@@ -1,6 +1,3 @@
 # Movie-Recommendation-System-
 
 
-
-
-ihbihbibuibuojio
